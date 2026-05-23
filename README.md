@@ -4,7 +4,7 @@
 
 </div>
 
-🌸 Passionate Software Engineering Student | Full-Stack Developer | Mobile App Developer | Tech Enthusiast  
+🦸 Passionate Software Engineering Student | Full-Stack Developer | Mobile App Developer | Tech Enthusiast  
 
 ---
 
@@ -100,21 +100,25 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=OshadhaMihiran&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=oshadha72mihiran-afk&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=OshadhaMihiran&layout=compact&theme=radical&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=oshadha72mihiran-afk&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 ## 🏆 GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OshadhaMihiran&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=oshadha72mihiran-afk&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OshadhaMihiran)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oshadha72mihiran-afk)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oshadha-mihiran-thathsara)
 
